@@ -1,0 +1,8 @@
+step1: start
+step2: input a sentence that ends with a point
+step3: let n= 0
+step4: for each word in the sentence do n= n+1
+step5: let v=0
+step6: for each vowel in the sentence do v= v+1
+step7: display n and v
+step8: stop
